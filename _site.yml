@@ -1,0 +1,9 @@
+name: "Zirou Zhou-website"
+output_dir: "."
+navbar:
+  title: "Zirou Zhou- Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Hobby"
+      href: hobby.html

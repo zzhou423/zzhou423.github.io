@@ -1,0 +1,13 @@
+---
+title: "Hello everyone"
+---
+
+Glad to see you all.
+
+I'm a Grad statistics student at Iowa State University.
+
+Here is my [CV](Zirou_Zhou_Resume.pdf).
+
+And if you like we can talk more about my [hobby](hobby.html).
+
+
