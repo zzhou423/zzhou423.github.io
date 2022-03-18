@@ -2,7 +2,7 @@
 title: "My hobbies"
 ---
 
-Glad to see you attach this tag.
+Glad to see you press this tag.
 
 Other than Statistics, I also like to study philosophy.
 
