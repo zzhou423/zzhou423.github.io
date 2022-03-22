@@ -5,5 +5,9 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "CV"
+      href: Zirou_Zhou_Resume.pdf
+    - text: "Thesis"
+      href: thesis.html
     - text: "Hobby"
       href: hobby.html
