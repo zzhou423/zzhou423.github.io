@@ -1,0 +1,24 @@
+---
+title: "My thesis"
+---
+
+Thank you for interested in my research topics. Here listed all my on going works and publications.
+
+### **Topic in Stochastic**
+1. With [Dr. Roitershtein, Alex](https://people.tamu.edu/~roiterst/)
+
+- A. Roitershtein and Z. Zhou, [*Relative growth of the partial sums of certain random Fibonacci-like sequences*](https://ieeexplore.ieee.org/document/8976221), J. Difference Equ. Appl. 23 (2017), 1913-1928.
+
+- A. Roitershtein and Z. Zhou, [*Distribution tails of history-dependent random linear recursions*](https://people.tamu.edu/~roiterst/preprints/hrec21.pdf), to appear in Stochastic Models.
+
+2. With [Dr. De Brabanter, Kris](https://www.stat.iastate.edu/people/kris-de-brabanter) and [Dr. Sabzikar, Farzard](https://www.stat.iastate.edu/people/farzad-sabzikar)
+
+- Z.Zhou [*A simulation study of bandwidth selection methods for non-parametric regression with long and semi-long range dependent errors*](MSCC.pdf)
+
+- F. V. Guarch and Z.Zhou, *the Convergence Test for the Alternatives Power of R/S-Type Tests under Contiguous and Semi-Long Memory* ([ask for on doing draft](mailto:zzhou@iastate.edu))
+
+### **Topics in data analysis**
+1. With [Dr. Berg, Emily](https://www.stat.iastate.edu/people/emily-berg)
+
+- E. Berg and Z. Zhou *Unite Beta model for one-inflated seat belt survey data* ([ask for on going draft](mailto:zzhou@iastate.edu))
+
