@@ -10,7 +10,7 @@ Here is my [CV](Zirou_Zhou_Resume.pdf).
 
 You may take a look at what's my recent research topics in [thesis](thesis.html).
 
-And if you like we can talk more about my [hobby](hobby.html).
+And if you like, we can talk more about my [hobby](hobby.html).
 
 Also, you may contact me through work email: [zzhou@iastate.edu](mailto:zzhou@iastate,edu), personal email: [zjrzirou@gmail.com](mailto:zjrzirou@gmail.com), or phone: (512)230-7869
 
