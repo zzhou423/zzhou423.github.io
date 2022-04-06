@@ -7,9 +7,9 @@ Thank you for interested in my research topics. Here listed all my on going work
 ### **Topic in Stochastic**
 1. With [Dr. Roitershtein, Alex](https://people.tamu.edu/~roiterst/)
 
-- A. Roitershtein and Z. Zhou, [*Relative growth of the partial sums of certain random Fibonacci-like sequences*](https://ieeexplore.ieee.org/document/8976221), J. Difference Equ. Appl. 23 (2017), 1913-1928.
+- A. Roitershtein and Z. Zhou, [*Relative growth of the partial sums of certain random Fibonacci-like sequences*](https://doi.org/10.1080/10236198.2017.1378353), J. Difference Equ. Appl. 23 (2017), 1913-1928.
 
-- A. Roitershtein and Z. Zhou, [*Distribution tails of history-dependent random linear recursions*](https://people.tamu.edu/~roiterst/preprints/hrec21.pdf), to appear in Stochastic Models.
+- A. Roitershtein and Z. Zhou, [*Distribution tails of history-dependent random linear recursions*](https://doi.org/10.1080/15326349.2021.2003712), to appear in Stochastic Models.
 
 2. With [Dr. De Brabanter, Kris](https://www.stat.iastate.edu/people/kris-de-brabanter) and [Dr. Sabzikar, Farzard](https://www.stat.iastate.edu/people/farzad-sabzikar)
 
