@@ -13,11 +13,11 @@ Thank you for interested in my research topics. Here listed all my on going work
 
 2. With [Dr. De Brabanter, Kris](https://www.stat.iastate.edu/people/kris-de-brabanter) and [Dr. Sabzikar, Farzard](https://www.stat.iastate.edu/people/farzad-sabzikar)
 
-- F. V. Guarch and Z.Zhou (2022), [*the Convergence Test for the Alternatives Power of R/S-Type Tests under Contiguous and Semi-Long Memory* (draft)](rs.pdf)
+- F. V. Guarch and Z.Zhou (2022), [*the Convergence Test for the Alternatives Power of R/S-Type Tests under Contiguous and Semi-Long Memory* (draft)](rs.pdf).
 
-- Z.Zhou (2021), [*A simulation study of bandwidth selection methods for non-parametric regression with long and semi-long range dependent errors*](MSCC.pdf)
+- Z.Zhou (2021), [*A simulation study of bandwidth selection methods for non-parametric regression with long and semi-long range dependent errors*](MSCC.pdf).
 
 ### **Topics in Small Area Estimation for Survey and Sampling**
 1. With [Dr. Berg, Emily](https://www.stat.iastate.edu/people/emily-berg)
 
-- E. Berg and Z. Zhou (2024), [*A Unit-Level One-Inflated Beta Model for Small Area Prediction of Seat-Belt Use Rates* (draft under review)](UnitBeta-paper.pdf), with [supplementary](UnitBeta-supplymentary.pdf)
+- E. Berg and Z. Zhou (2024), [*A Unit-Level One-Inflated Beta Model for Small Area Prediction of Seat-Belt Use Rates* (draft under review)](UnitBeta-paper.pdf), with [supplementary](UnitBeta-supplymentary.pdf).
