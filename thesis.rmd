@@ -4,20 +4,20 @@ title: "My thesis"
 
 Thank you for interested in my research topics. Here listed all my on going works and publications.
 
-### **Topic in Stochastic**
+### **Topic in Stochastic Process**
 1. With [Dr. Roitershtein, Alex](https://people.tamu.edu/~roiterst/)
 
-- A. Roitershtein and Z. Zhou, [*Relative growth of the partial sums of certain random Fibonacci-like sequences*](https://doi.org/10.1080/10236198.2017.1378353), J. Difference Equ. Appl. 23 (2017), 1913-1928.
+- A. Roitershtein and Z. Zhou (2022), [*Distribution tails of history-dependent random linear recursions*](https://doi.org/10.1080/15326349.2021.2003712), Stochastic Models, 38(2), 250–267.
 
-- A. Roitershtein and Z. Zhou, [*Distribution tails of history-dependent random linear recursions*](https://doi.org/10.1080/15326349.2021.2003712), to appear in Stochastic Models.
+- A. Roitershtein and Z. Zhou (2017), [*Relative growth of the partial sums of certain random Fibonacci-like sequences*](https://doi.org/10.1080/10236198.2017.1378353), J. Difference Equ. Appl. 23(12) , 1913-1928.
 
 2. With [Dr. De Brabanter, Kris](https://www.stat.iastate.edu/people/kris-de-brabanter) and [Dr. Sabzikar, Farzard](https://www.stat.iastate.edu/people/farzad-sabzikar)
 
-- Z.Zhou [*A simulation study of bandwidth selection methods for non-parametric regression with long and semi-long range dependent errors*](MSCC.pdf)
+- F. V. Guarch and Z.Zhou (2022), [*the Convergence Test for the Alternatives Power of R/S-Type Tests under Contiguous and Semi-Long Memory* (draft)](rs.pdf)
 
-- F. V. Guarch and Z.Zhou, *the Convergence Test for the Alternatives Power of R/S-Type Tests under Contiguous and Semi-Long Memory* ([on doing draft](rs.pdf))
+- Z.Zhou (2021), [*A simulation study of bandwidth selection methods for non-parametric regression with long and semi-long range dependent errors*](MSCC.pdf)
 
-### **Topics in data analysis**
+### **Topics in Small Area Estimation for Survey and Sampling**
 1. With [Dr. Berg, Emily](https://www.stat.iastate.edu/people/emily-berg)
 
-- E. Berg and Z. Zhou *A Unit-Level One-Inflated Beta Model for Small Area Prediction of Seat-Belt Use Rates* ([draft under review](UnitBeta-paper.pdf),  [supplementary](UnitBeta-supplymentary.pdf))
+- E. Berg and Z. Zhou (2024), [*A Unit-Level One-Inflated Beta Model for Small Area Prediction of Seat-Belt Use Rates* (draft under review)](UnitBeta-paper.pdf), with [supplementary](UnitBeta-supplymentary.pdf)
