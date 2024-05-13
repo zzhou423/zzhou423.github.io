@@ -6,7 +6,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "CV"
-      href: Zirou_Zhou_Resume.pdf
+      href: Zirou_Zhou.pdf
     - text: "Thesis"
       href: thesis.html
     - text: "Hobby"

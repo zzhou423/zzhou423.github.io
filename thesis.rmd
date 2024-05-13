@@ -20,5 +20,5 @@ Thank you for interested in my research topics. Here listed all my on going work
 ### **Topics in data analysis**
 1. With [Dr. Berg, Emily](https://www.stat.iastate.edu/people/emily-berg)
 
-- E. Berg and Z. Zhou *Unite Beta model for one-inflated seat belt survey data* ([ask for on going draft](mailto:zzhou@iastate.edu))
+- E. Berg and Z. Zhou *Unite Beta model for one-inflated seat belt survey data* ([draft](UnitBeta-paper.pdf))
 
