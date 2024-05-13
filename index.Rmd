@@ -6,7 +6,7 @@ Glad to see you all.
 
 I'm a Grad statistics student at Iowa State University.
 
-Here is my [CV](Zirou_Zhou_Resume.pdf).
+Here is my [CV](Zirou_Zhou.pdf). 
 
 You may take a look at what's my recent research topics in [thesis](thesis.html).
 
