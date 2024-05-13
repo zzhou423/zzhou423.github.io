@@ -4,9 +4,9 @@ title: "Welcome to my personal website"
 
 Glad to see you all.
 
-I'm a Grad statistics student at Iowa State University.
+I'm a Ph.D. statistics student at Iowa State University.
 
-Here is my [CV](Zirou_Zhou.pdf). 
+Here is my [CV](Zirou_Zhou.pdf).
 
 You may take a look at what's my recent research topics in [thesis](thesis.html).
 
