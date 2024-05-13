@@ -15,7 +15,7 @@ Thank you for interested in my research topics. Here listed all my on going work
 
 - Z.Zhou [*A simulation study of bandwidth selection methods for non-parametric regression with long and semi-long range dependent errors*](MSCC.pdf)
 
-- F. V. Guarch and Z.Zhou, *the Convergence Test for the Alternatives Power of R/S-Type Tests under Contiguous and Semi-Long Memory* ([ask for on doing draft](mailto:zzhou@iastate.edu))
+- F. V. Guarch and Z.Zhou, *the Convergence Test for the Alternatives Power of R/S-Type Tests under Contiguous and Semi-Long Memory* ([on doing draft](rs.pdf))
 
 ### **Topics in data analysis**
 1. With [Dr. Berg, Emily](https://www.stat.iastate.edu/people/emily-berg)
